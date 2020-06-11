@@ -24,3 +24,10 @@ API com NODE.js,  para utilização em futuros projetos.
     POST: create -> http://localhost:3000/api/products
     PUT: update -> http://localhost:3000/api/products/(id-desejado)
     DEL: delete -> http://localhost:3000/api/products/(id-desejado)
+    
+---------------------------------
+
+<p align="center">
+<img src=".github/Insomnia.jpg" width="800"/>
+<img src=".github/Robo3T.jpg" width="800"/>
+
