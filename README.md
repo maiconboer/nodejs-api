@@ -1,8 +1,8 @@
-# nodejs-api
+# 🔨 nodejs-api 
 API com NODE.js,  para utilização em futuros projetos.
 
 
-### Banco de dados:  
+### 💾 Banco de dados:  
     MongoDB
     Criar banco com nome -> nodeapi
   ------------------------------  
@@ -17,7 +17,7 @@ API com NODE.js,  para utilização em futuros projetos.
    
 ---------------------------------
 
-### Rotas:
+### 🔀 Rotas:
 
     GET: index -> http://localhost:3000/api/products?page=1
     GET: show -> http://localhost:3000/api/products/(id-desejado)
